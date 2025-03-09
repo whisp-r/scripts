@@ -1,0 +1,25 @@
+{
+	"auth": {
+		"username": "foo@bar.buz",
+		"password": "foobar"
+	},
+
+	"target": {
+		"url": "https://moodle.oss.unist.hr/"
+	},
+
+	"login_elem": {
+		"username": "username",
+		"password": "password",
+		"submit": "loginbtn"
+	},
+	"course_elem": {
+		"url": "https://moodle.oss.unist.hr/course/index.php",
+		"current_url": "https://moodle.oss.unist.hr/enrol/index.php?id=",
+		"unroll_url": "https://moodle.oss.unist.hr/enrol/self/unenrolself.php?enrolid=",
+		"error": "errormessage",
+		"enroll_pass": "enrolpassword",
+		"oob": 900,
+		"submit": "submitbutton"
+	}
+}
