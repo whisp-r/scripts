@@ -1,3 +1,4 @@
 # Requirements
-python-selenium
-headless firefox
+
+- python-selenium
+- headless firefox
